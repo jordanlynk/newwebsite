@@ -1,0 +1,32 @@
+body {
+    background-color:rgb(245, 214, 175);
+}
+
+header, footer {
+    background-color: rgb(219, 191, 157);
+    color: rgb(1, 71, 1);
+    text-align: center;
+}
+
+li {
+    border: solid rgb(192,164,129) 1px;
+    display: inline-block;
+    padding: 10px;
+    margin: 5px 60px;
+    background-color: rgb(66, 64, 64)
+    color: rgb(216, 59, 106)
+}
+
+section {
+    background-color: rgb(219, 191, 157)
+    border: 1px 
+    margin: 10px 0px;
+}
+
+p {
+    border: solid black 1px;
+    display: inline-block;
+    width: 700px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
