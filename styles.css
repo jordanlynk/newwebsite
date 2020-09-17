@@ -19,8 +19,9 @@ li {
 
 section {
     background-color: rgb(219, 191, 157)
-    border: 1px 
-    margin: 10px 0px;
+    border: 1px;
+    margin: 20px;
+    display: inline-block;
 }
 
 p {
@@ -30,3 +31,4 @@ p {
     margin-top: auto;
     margin-bottom: auto;
 }
+
