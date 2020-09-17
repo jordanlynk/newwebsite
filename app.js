@@ -27,13 +27,14 @@ document.write(greeting + questionAnswer);
 }
 
 function askUserWhoIsTheBestDogQuestion(){
-    
     var questionAnswer = prompt("Who's The Best Dog?");
-    if (questionAnswer = All Dogs){
-        alert('You have entered it correctly!')
+    if (questionAnswer == ("all dogs"));{
+        document.write("of course they are");
     } 
-    
+          
     }
+    
+    
 
 
 
